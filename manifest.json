@@ -1,0 +1,258 @@
+{
+    "version":  1,
+    "playlists":  [
+                      {
+                          "id":  "bass",
+                          "name":  "Bass",
+                          "icon":  "icons/bass_84fb2881.png",
+                          "description":  "Музыка с низкими басами / bass boosted. \n\nХорошо пробивает стены и перекрытия",
+                          "tracks":  [
+                                         {
+                                             "title":  "BASS CLUB - АВТОЗВУК - ДИКИЙ ПАНЧ 109 - Music_Bass_Project",
+                                             "url":  "https://raw.githubusercontent.com/outperson/playlists/main/playlists/bass/bass-club-avtozvuk-dikiy-panch-109-music_bass_project.mp3"
+                                         },
+                                         {
+                                             "title":  "Dr. Dre - Still D.R.E. Remix (Bass Boosted) - BASS BOOSTED SONGS",
+                                             "url":  "https://raw.githubusercontent.com/outperson/playlists/main/playlists/bass/dr.-dre-still-d.r.e.-remix-bass-boosted-bass-boosted-songs.mp3"
+                                         },
+                                         {
+                                             "title":  "TheMusicYouNeed",
+                                             "artist":  "EXTREM BASS TEST!!! CAN YOU GET IT？! (SUBWOOFER VIBRATION)",
+                                             "url":  "https://raw.githubusercontent.com/outperson/playlists/main/playlists/bass/extrem-bass-test-can-you-get-it-subwoofer-vibration-themusicyouneed.mp3"
+                                         },
+                                         {
+                                             "title":  "Bass Slayer",
+                                             "artist":  "EXTREME 999999999999999 HZ 999999 WATT HARD SUBWOOFER BASS TEST (SUBWOOFER HEA)",
+                                             "url":  "https://raw.githubusercontent.com/outperson/playlists/main/playlists/bass/extreme-999999999999999-hz-999999-watt-hard-subwoofer-bass-test-subwoofer-hea-bass-slayer.mp3"
+                                         },
+                                         {
+                                             "title":  "PVK19",
+                                             "artist":  "Extreme bass test! Use this to remove dust from speakers!",
+                                             "url":  "https://raw.githubusercontent.com/outperson/playlists/main/playlists/bass/extreme-bass-test-use-this-to-remove-dust-from-speakers-pvk19.mp3"
+                                         },
+                                         {
+                                             "title":  "TheMusicYouNeed",
+                                             "artist":  "EXTREME SUBWOOFER BASS TEST 25k!!! (SUBWOOFER VIBRATION)",
+                                             "url":  "https://raw.githubusercontent.com/outperson/playlists/main/playlists/bass/extreme-subwoofer-bass-test-25k-subwoofer-vibration-themusicyouneed.mp3"
+                                         },
+                                         {
+                                             "title":  "lowhz_bassboom",
+                                             "url":  "https://raw.githubusercontent.com/outperson/playlists/main/playlists/bass/lowhz_bassboom.mp3"
+                                         },
+                                         {
+                                             "title":  "Subwoofer Tests - Deepest Bass ever - andrawhh",
+                                             "url":  "https://raw.githubusercontent.com/outperson/playlists/main/playlists/bass/subwoofer-tests-deepest-bass-ever-andrawhh.mp3"
+                                         },
+                                         {
+                                             "title":  "TheMusicYouNeed",
+                                             "artist":  "THIS BASS VIBRATION WILL SHAKE YOUR HOUSE!!!! [SUBWOOFER VIBRATION] (EXTREME BASS BOOSTED)",
+                                             "url":  "https://raw.githubusercontent.com/outperson/playlists/main/playlists/bass/this-bass-vibration-will-shake-your-house-subwoofer-vibration-extreme-bass-boosted-themusicyouneed.mp3"
+                                         },
+                                         {
+                                             "title":  "TheMusicYouNeed",
+                                             "artist":  "ULTRA DEEP BASS TEST!!! (SUBWOOFER VIBRATION)",
+                                             "url":  "https://raw.githubusercontent.com/outperson/playlists/main/playlists/bass/ultra-deep-bass-test-subwoofer-vibration-themusicyouneed.mp3"
+                                         },
+                                         {
+                                             "title":  "Wizard \u0026 sqmer - Playing For Time (Bass Boosted) - Trap Woofer",
+                                             "url":  "https://raw.githubusercontent.com/outperson/playlists/main/playlists/bass/wizard-sqmer-playing-for-time-bass-boosted-trap-woofer.mp3"
+                                         }
+                                     ]
+                      },
+                      {
+                          "id":  "india",
+                          "name":  "india",
+                          "description":  "Чтобы проникнуться индийской культурой",
+                          "tracks":  [
+                                         {
+                                             "title":  "Say Shava Shava",
+                                             "url":  "https://raw.githubusercontent.com/outperson/playlists/main/playlists/india/Say%20Shava%20Shava.mp3"
+                                         }
+                                     ]
+                      },
+                      {
+                          "id":  "rock",
+                          "name":  "rock",
+                          "tracks":  [
+                                         {
+                                             "title":  "Duality - Slipknot",
+                                             "url":  "https://raw.githubusercontent.com/outperson/playlists/main/playlists/rock/Duality%20-%20Slipknot.mp3"
+                                         }
+                                     ]
+                      },
+                      {
+                          "id":  "nizkie-chastoty-basy",
+                          "name":  "низкие частоты басы",
+                          "icon":  "icons/nizkie-chastoty-basy_84fb2881.png",
+                          "tracks":  [
+                                         {
+                                             "title":  "BassBoosted by Jony [SM]",
+                                             "url":  "https://github.com/anichivo/playlists/releases/download/pl-nizkie-chastoty-basy/bassboosted-by-jony-sm-505cf2.mp3"
+                                         },
+                                         {
+                                             "title":  "e44aa8f9dfe2a28161a269eca7bab742",
+                                             "url":  "https://github.com/anichivo/playlists/releases/download/pl-nizkie-chastoty-basy/e44aa8f9dfe2a28161a269eca7bab742-1e6f30.mp3"
+                                         },
+                                         {
+                                             "title":  "lowbass gudeniye",
+                                             "url":  "https://github.com/anichivo/playlists/releases/download/pl-nizkie-chastoty-basy/lowbass-gudeniye-1085aa.mp3"
+                                         },
+                                         {
+                                             "title":  "№ 7",
+                                             "url":  "https://github.com/anichivo/playlists/releases/download/pl-nizkie-chastoty-basy/7-cb172f.mp3"
+                                         },
+                                         {
+                                             "title":  "sub_bass_alarm",
+                                             "url":  "https://github.com/anichivo/playlists/releases/download/pl-nizkie-chastoty-basy/sub_bass_alarm-4d217e.mp3"
+                                         },
+                                         {
+                                             "title":  "sub_bass_vibration",
+                                             "url":  "https://github.com/anichivo/playlists/releases/download/pl-nizkie-chastoty-basy/sub_bass_vibration-9e6556.mp3"
+                                         },
+                                         {
+                                             "title":  "глухая долбежка басы 15 мин - тишина 1 минута",
+                                             "url":  "https://github.com/anichivo/playlists/releases/download/pl-nizkie-chastoty-basy/glukhaya-dolbezhka-basy-15-min---tishina-1-minuta-6ae5d4.mp3"
+                                         },
+                                         {
+                                             "title":  "низкочастотные звук-nizkochastotnyy-stuk",
+                                             "url":  "https://github.com/anichivo/playlists/releases/download/pl-nizkie-chastoty-basy/nizkochastotnye-zvuk-nizkochastotnyy-stuk-b26e77.mp3"
+                                         },
+                                         {
+                                             "title":  "низкочастотные звуки",
+                                             "url":  "https://github.com/anichivo/playlists/releases/download/pl-nizkie-chastoty-basy/nizkochastotnye-zvuki-25eb84.mp3"
+                                         },
+                                         {
+                                             "title":  "низкочастотный звук-vyzyvayuschie-paniku",
+                                             "url":  "https://github.com/anichivo/playlists/releases/download/pl-nizkie-chastoty-basy/nizkochastotnyy-zvuk-vyzyvayuschie-paniku-8ecc1e.mp3"
+                                         },
+                                         {
+                                             "title":  "низкочастотный_звук_kotoryy_vyzyvaet_golovnuyu_bol_i_ustlost",
+                                             "url":  "https://github.com/anichivo/playlists/releases/download/pl-nizkie-chastoty-basy/nizkochastotnyy_zvuk_kotoryy_vyzyvaet_golovnuyu_bol_i_ustlost-fcc693.mp3"
+                                         },
+                                         {
+                                             "title":  "Ответ_шумным_соседям_БУМ_БУМ_на_низких_частотах",
+                                             "url":  "https://github.com/anichivo/playlists/releases/download/pl-nizkie-chastoty-basy/otvet_shumnym_sosedyam_bum_bum_na_nizkikh_chastotakh-8c7edd.mp3"
+                                         },
+                                         {
+                                             "title":  "прерывистый низкий басс",
+                                             "url":  "https://github.com/anichivo/playlists/releases/download/pl-nizkie-chastoty-basy/preryvistyy-nizkiy-bass-b2089a.mp3"
+                                         }
+                                     ]
+                      },
+                      {
+                          "id":  "razdrazhayushchee",
+                          "name":  "Раздражающее",
+                          "icon":  "icons/razdrazhayushchee_e3969962.png",
+                          "tracks":  [
+                                         {
+                                             "title":  "Annoying Ringtone - Never Trust A Dancecore Girl [DANCECORE]",
+                                             "url":  "https://github.com/anichivo/playlists/releases/download/pl-razdrazhayushchee/annoying-ringtone---never-trust-a-dancecore-girl-dancecore-f4ccd1.mp3"
+                                         },
+                                         {
+                                             "title":  "Bjetsi_Betsy_Pod_Novyjj_god_mne_Ded_Moroz_podarochek_zanns_80542831",
+                                             "url":  "https://github.com/anichivo/playlists/releases/download/pl-razdrazhayushchee/bjetsi_betsy_pod_novyjj_god_mne_ded_moroz_podarochek_zanns_80542831-9752a3.mp3"
+                                         },
+                                         {
+                                             "title":  "FTo8KmNiiyBEEJ1gPJbn+FgeE8F9kd2o",
+                                             "url":  "https://github.com/anichivo/playlists/releases/download/pl-razdrazhayushchee/fto8kmniiybeej1gpjbn-fgee8f9kd2o-ecc543.mp3"
+                                         },
+                                         {
+                                             "title":  "GachiГачи_мучи_Сборник_Часть_2_Bass_Boost",
+                                             "url":  "https://github.com/anichivo/playlists/releases/download/pl-razdrazhayushchee/gachigachi_muchi_sbornik_chast_2_bass_boost-5d595b.mp3"
+                                         },
+                                         {
+                                             "title":  "GeZXlwZSgilpgzcXY7Bo+ZqO6h2gKBMk",
+                                             "url":  "https://github.com/anichivo/playlists/releases/download/pl-razdrazhayushchee/gezxlwzsgilpgzcxy7bo-zqo6h2gkbmk-4d2e3e.mp3"
+                                         },
+                                         {
+                                             "title":  "GROOVE_GANGSTERS_-_Funky_Beats_63249060",
+                                             "url":  "https://github.com/anichivo/playlists/releases/download/pl-razdrazhayushchee/groove_gangsters_-_funky_beats_63249060-ba6d82.mp3"
+                                         },
+                                         {
+                                             "title":  "HE_S A PIRATE_ FAIL RECORDER COVER (REMAST3RED)_06022026",
+                                             "url":  "https://github.com/anichivo/playlists/releases/download/pl-razdrazhayushchee/he_s-a-pirate_-fail-recorder-cover-remast3red-_06022026-d5de21.mp3"
+                                         },
+                                         {
+                                             "title":  "I-Play-At-Weddings",
+                                             "url":  "https://github.com/anichivo/playlists/releases/download/pl-razdrazhayushchee/i-play-at-weddings-51bb62.mp3"
+                                         },
+                                         {
+                                             "title":  "My Heart Will Go On - флейта edition_06022026",
+                                             "url":  "https://github.com/anichivo/playlists/releases/download/pl-razdrazhayushchee/my-heart-will-go-on---fleyta-edition_06022026-42a71b.mp3"
+                                         },
+                                         {
+                                             "title":  "q9r7iBa5eCOdfdARh2od+fVA8i6XAW40",
+                                             "url":  "https://github.com/anichivo/playlists/releases/download/pl-razdrazhayushchee/q9r7iba5ecodfdarh2od-fva8i6xaw40-ac34b8.mp3"
+                                         },
+                                         {
+                                             "title":  "Rooler - ANNOYING MUSIC (Official Video)",
+                                             "url":  "https://github.com/anichivo/playlists/releases/download/pl-razdrazhayushchee/rooler---annoying-music-official-video-f1d39f.mp3"
+                                         },
+                                         {
+                                             "title":  "Songs to annoy your friends",
+                                             "url":  "https://github.com/anichivo/playlists/releases/download/pl-razdrazhayushchee/songs-to-annoy-your-friends-8d58d8.mp3"
+                                         },
+                                         {
+                                             "title":  "Super Mario Bros - Complete Walkthrough [c_b9Yn34pdI]",
+                                             "url":  "https://github.com/anichivo/playlists/releases/download/pl-razdrazhayushchee/super-mario-bros---complete-walkthrough-c_b9yn34pdi-11bacc.mp3"
+                                         },
+                                         {
+                                             "title":  "taking the hobbits to isengard - Aaron Hardbarger",
+                                             "url":  "https://github.com/anichivo/playlists/releases/download/pl-razdrazhayushchee/taking-the-hobbits-to-isengard---aaron-hardbarger-7f3889.mp3"
+                                         },
+                                         {
+                                             "title":  "Worst Song Ever!!!",
+                                             "url":  "https://github.com/anichivo/playlists/releases/download/pl-razdrazhayushchee/worst-song-ever-23a895.mp3"
+                                         },
+                                         {
+                                             "title":  "Витас поёт для шумных соседей",
+                                             "url":  "https://github.com/anichivo/playlists/releases/download/pl-razdrazhayushchee/vitas-poyot-dlya-shumnykh-sosedey-09a971.mp3"
+                                         },
+                                         {
+                                             "title":  "Вувузелы. Звук поддержки",
+                                             "url":  "https://github.com/anichivo/playlists/releases/download/pl-razdrazhayushchee/vuvuzely-zvuk-podderzhki-29b538.mp3"
+                                         },
+                                         {
+                                             "title":  "Занятия на скрипке",
+                                             "url":  "https://github.com/anichivo/playlists/releases/download/pl-razdrazhayushchee/zanyatiya-na-skripke-6762f1.mp3"
+                                         },
+                                         {
+                                             "title":  "звук3",
+                                             "url":  "https://github.com/anichivo/playlists/releases/download/pl-razdrazhayushchee/zvuk3-c34c36.mp3"
+                                         },
+                                         {
+                                             "title":  "Какают бомжи - Казённый Унитаз",
+                                             "url":  "https://github.com/anichivo/playlists/releases/download/pl-razdrazhayushchee/kakayut-bomzhi---kazyonnyy-unitaz-fc8fef.mp3"
+                                         },
+                                         {
+                                             "title":  "Кэнни - Ворона (feat. МС Дымка)",
+                                             "url":  "https://github.com/anichivo/playlists/releases/download/pl-razdrazhayushchee/kenni---vorona-feat-ms-dymka-0d952f.mp3"
+                                         },
+                                         {
+                                             "title":  "Моча_съела_говно_Казённый_Унитаз",
+                                             "url":  "https://github.com/anichivo/playlists/releases/download/pl-razdrazhayushchee/mocha_sela_govno_kazyonnyy_unitaz-0aa8c1.mp3"
+                                         },
+                                         {
+                                             "title":  "назовите как нибудь (1)",
+                                             "url":  "https://github.com/anichivo/playlists/releases/download/pl-razdrazhayushchee/nazovite-kak-nibud-1-64a71e.mp3"
+                                         },
+                                         {
+                                             "title":  "Раздражающая мелодия",
+                                             "url":  "https://github.com/anichivo/playlists/releases/download/pl-razdrazhayushchee/razdrazhayushchaya-melodiya-e45d5e.mp3"
+                                         },
+                                         {
+                                             "title":  "Сборник добрых песенок на час",
+                                             "url":  "https://github.com/anichivo/playlists/releases/download/pl-razdrazhayushchee/sbornik-dobrykh-pesenok-na-chas-9ecdc2.mp3"
+                                         },
+                                         {
+                                             "title":  "Свирель. Тестируем звучание",
+                                             "url":  "https://github.com/anichivo/playlists/releases/download/pl-razdrazhayushchee/svirel-testiruem-zvuchanie-73600e.mp3"
+                                         },
+                                         {
+                                             "title":  "Секрет - Песня гномов",
+                                             "url":  "https://github.com/anichivo/playlists/releases/download/pl-razdrazhayushchee/sekret---pesnya-gnomov-aa729a.mp3"
+                                         }
+                                     ]
+                      }
+                  ]
+}
